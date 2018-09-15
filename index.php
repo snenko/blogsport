@@ -27,4 +27,4 @@ $datetime = date('d.m.Y');
 		<?php require_once($footer); ?>
 	</footer>
 </body>
-</html>
+</html> 
